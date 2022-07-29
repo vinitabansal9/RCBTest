@@ -28,7 +28,7 @@ public class APITeamRCB {
     }
 
     /**
-     * this method sorts all the players country and validates the Foreign players count
+     * this method filters all the players country and validates the Foreign players count
      * @throws IOException
      * @throws ParseException
      */
@@ -48,7 +48,7 @@ public class APITeamRCB {
 
     }
     /**
-     * this method sorts all the players role and validates the Wicket Keeper count
+     * this method filters all the players role and validates the Wicket Keeper count
      * @throws IOException
      * @throws ParseException
      */
